@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/github-header-banner.png" width="100%">
+</p>
+
 # ⚡ Machine Learning & Parallel Computing (MLPC)
 
 This repository contains both major assessments completed for the **Machine Learning & Parallel Computing (ITS66604)** module. 
